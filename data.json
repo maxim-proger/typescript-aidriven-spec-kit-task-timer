@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "969883c6-ae43-4e2b-9ee8-9fe9597536aa",
+      "name": "Write documentation",
+      "createdAt": "2026-06-04T23:25:15.883Z"
+    },
+    {
+      "id": "dc8632dd-cb25-4a4b-8cb1-003949d8cb78",
+      "name": "Fix login bug",
+      "createdAt": "2026-06-04T23:25:56.827Z"
+    }
+  ],
+  "entries": [
+    {
+      "taskId": "969883c6-ae43-4e2b-9ee8-9fe9597536aa",
+      "startedAt": "2026-06-04T23:26:33.981Z",
+      "stoppedAt": "2026-06-04T23:27:27.025Z"
+    }
+  ]
+}
